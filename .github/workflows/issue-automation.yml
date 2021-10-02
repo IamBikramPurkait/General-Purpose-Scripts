@@ -5,8 +5,7 @@ on:
     types: [opened]
   pull_request:
     types: [opened]
-  project_card:
-    types: [moved]
+
 
 jobs:
   automate-issues-labels:
